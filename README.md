@@ -11,7 +11,7 @@ Fatec Ferraz de Vasconcelos – Análise e Desenvolvimento de Sistemas
 | Filipe Acierno | 2920482421034 |
 | Guilherme Souza | 2920482421020 |
 | Michael Coutinho | 2920482421031 |
-| Yago Nunes da Silva | 2920482421021 |
+| Yago Nunes | 2920482421021 |
 
 ## Descrição da atividade
 
