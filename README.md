@@ -9,7 +9,7 @@ Fatec Ferraz de Vasconcelos – Análise e Desenvolvimento de Sistemas
 |---|---|
 | Alecsander Torres | 0000000 |
 | Filipe Acierno | 2920482421034 |
-| Guilherme Souza | 0000000 |
+| Guilherme Souza | 2920482421020 |
 | Michael Coutinho | 0000000 |
 | Yago Nunes da Silva | 0000000 |
 
